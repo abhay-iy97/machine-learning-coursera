@@ -5,14 +5,14 @@ Assignment 1 - Linear Regression.
 
 Assignment 2 - Logistic Regression with regularization. 
 
-Assignment 3 - Multi-class Classification and Neural Network Prediction.
+Assignment 3 - Multi-class Classification & Neural Network Prediction.
 
 Assignment 4 - Neural Networks Learning.
 
-Assignment 5 - Regularized Linear Regression and Bias v.s Variance.
+Assignment 5 - Regularized Linear Regression & Bias v.s Variance.
 
 Assignment 6 - Support Vector Machines.
 
 Assignment 7 - K-means Clustering & PCA.
 
-Assignment 8 - Anomaly Detection & Recommender Systems
+Assignment 8 - Anomaly Detection & Recommender Systems.
